@@ -22,7 +22,7 @@
                 
                   
                 <van-cell-group class="mt10"> 
-                    <van-field    placeholder="Password" class="fz16"/>
+                    <van-field    placeholder="Password"  class="fz16"/>
                 </van-cell-group>
                 
                 <section class="mt40">

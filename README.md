@@ -1,5 +1,5 @@
 # 独行工匠
-## vue3.0初始化
+## 加壳的app开发
 
 ## Project setup
 ```

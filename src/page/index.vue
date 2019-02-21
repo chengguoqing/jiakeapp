@@ -1,6 +1,7 @@
 <template>
-<div >
-
+<div  >
+ 
+<van-button type="primary" @click="saoma">主要按钮2</van-button>
 </div>
 </template>
 <script>
@@ -14,6 +15,10 @@
 
         },
         methods: {
+            saoma() {
+                alert(2)
+                uexWindow.showStatusBar()
+            }
 
         },
         mounted() {
