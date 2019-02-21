@@ -1,7 +1,6 @@
 <template>
 <div >
 
-<i class="dx icon-gou"></i>
 </div>
 </template>
 <script>

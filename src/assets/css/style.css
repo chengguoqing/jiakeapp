@@ -1,3 +1,35 @@
-body{
+body {
     background: #F2F2F2;
+}
+
+.van-nav-bar.van-hairline--bottom {
+    background: #F56E51;
+    color: #fff;
+}
+
+.van-nav-bar__title {
+    color: #fff
+}
+
+.van-nav-bar {
+    height: 56px;
+    line-height: 56px;
+    padding-top: 7px;
+}
+
+.dx_body {
+    padding-top: 56px
+}
+
+.van-button--danger {
+    background-color: #F56E51;
+    border: 1px solid #F56E51;
+}
+
+.van-button--plain {
+    background: #fff
+}
+
+.red {
+    color: #F56E51 !important;
 }
