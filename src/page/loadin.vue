@@ -1,5 +1,6 @@
 <template>
 	<div >
+<!--
        <van-nav-bar
                     fixed
   title="BLOCKS"
@@ -9,6 +10,7 @@
     <i class="dx icon-user fz26 dsf_dderrt ab" slot="right"></i>
            
 </van-nav-bar>
+-->
         
         
         <section class="dx_body">

@@ -1,5 +1,5 @@
 body {
-    background: yellow;
+    background: #f2f2f2;
 }
 
 .van-nav-bar.van-hairline--bottom {
@@ -20,7 +20,7 @@ body {
 }
 
 .dx_body {
-    padding-top: 56px
+    padding-top: 26px
 }
 
 .van-button--danger {
